@@ -1,0 +1,1 @@
+firebase target:apply hosting api-1 devas-io-api-1
